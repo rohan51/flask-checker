@@ -13,7 +13,7 @@ app = Flask(__name__)
 # --- CONFIG ---
 USERNAME = "rohan.singhal@gmail.com"
 PASSWORD = "password1234"
-LOGIN_URL = "https://prenotami.esteri.it/Services/Booking/5194"
+LOGIN_URL = "https://prenotami.esteri.it/Services"
 NO_APPOINTMENT_TEXT = "Stante l'elevata richiesta i posti disponibili per il servizio scelto sono esauriti."
 
 # Email settings
